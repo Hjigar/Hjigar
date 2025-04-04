@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hjigar
 - 👀 I’m interested in developing application 
-- 🌱 I’m currently learning in BCA
+- 🌱 I’m crack BCA with 8.26CGPA
 - 💞️ I’m looking to collaborate on EDUCATION 
 - 📫 How to reach me WITH EMAIL AND MOBILE NUMBER 
 - 😄 Pronouns: SIMPLE BUT COIN HAVE 2 SIDE
