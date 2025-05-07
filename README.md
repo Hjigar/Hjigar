@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Hjigar
+- 👋 Hi, I’m @jigar
 - 👀 I’m interested in developing application 
 - 🌱 I’m crack BCA with 8.26CGPA
 - 💞️ I’m looking to collaborate on EDUCATION 
-- 📫 How to reach me WITH EMAIL AND MOBILE NUMBER 
-- 😄 Pronouns: SIMPLE BUT COIN HAVE 2 SIDE
+- 📫 You reach me with Email and Linkdin 
+- 😄 Pronouns:her_happyyness
+- 😊 About me:SIMPLE BUT COIN HAVE 2 SIDE
 - ⚡ Fun fact: 😁 
 
 <!---
