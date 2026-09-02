@@ -54,7 +54,7 @@ An experienced and certified **Software Development Engineer** specialized in bu
 
 ## 🔌 Establish Secure Connection
 
-* 🌐 **Portfolio Engine:** https://bejewelled-palmier-5fa6c9.netlify.app/[cite: 1]
-* 💼 **LinkedIn Secure Route:** [linkedin.com/in/Jigar](https://www.linkedin.com/in/jigar-prajapati-857606290)[cite: 1]
-* 🛠️ **Freelance Workspace:** [Freelancer Profile](https://www.freelancer.com/u/jigar1304)[cite: 1]
-* ✉️ **Direct Payload:** hjigar1326@gmail.com[cite: 1]
+* 🌐 **Portfolio Engine:** https://bejewelled-palmier-5fa6c9.netlify.app/
+* 💼 **LinkedIn Secure Route:** linkedin.com/in/Jigar](https://www.linkedin.com/in/jigar-prajapati-857606290
+* 🛠️ **Freelance Workspace:** Freelancer Profile](https://www.freelancer.com/u/jigar1304
+* ✉️ **Direct Payload:** hjigar1326@gmail.com
