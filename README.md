@@ -1,45 +1,62 @@
 # Hi there, I'm Jigar Prajapati 👋
 ### Software Development Engineer (SDE) & Android Architecture Expert 💻
 
-An experienced and certified **Software Development Engineer** specialized in building robust native Android applications and dynamic full-stack web architectures. Currently engineering enterprise systems and internal data pipelines at **Shree Kamdhenu Electronics Pvt Ltd**. 
+An experienced and certified **Software Development Engineer** specialized in building robust native Android applications, cross-platform mobile solutions, and enterprise full-stack web architectures. Currently engineering enterprise systems, hardware-integrated utilities, and core data pipelines at **Shree Kamdhenu Electronics Pvt Ltd (Akashganga)**.
 
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
 
-### 📱 Mobile Development
-* **Languages & Core:** Java, Kotlin, Android SDK, Android Studio[cite: 1]
-* **Architecture:** MVVM, LiveData, Fragments, Jetpack Compose, Jetpack Navigation[cite: 1]
-* **Async & Local Data:** Coroutines, Flows, Hilt, Room Database, Glide, CameraX[cite: 1]
-* **Networking & Cloud:** Retrofit Client, RESTful APIs, Firebase Ecosystem[cite: 1]
+### 📱 Mobile & Cross-Platform
+* **Languages & Core:** Kotlin, Java, Dart, Android SDK, Android Studio
+* **Hybrid / Cross-Platform:** Flutter (Android & iOS)
+* **Architecture:** MVVM, Clean Architecture, LiveData, Jetpack Compose, Navigation Component
+* **Async & Storage:** Coroutines, Flows, Hilt, Room Database, SharedPreferences
+* **Hardware & Peripherals:** CameraX, Thermal Printer Integration, Weighing Scale & Analyzer Interfacing
+* **Networking & Cloud:** Retrofit, REST APIs, Firebase Ecosystem
 
-### 🌐 Web & Backend Engineering
-* **Frontend:** React.js (Basic), JavaScript (ES6+), HTML5, CSS3, Tailwind CSS[cite: 1]
-* **Backend Frameworks:** Node.js, PHP, ASP.NET[cite: 1]
-* **Databases:** SQL Server, MySQL, DBMS, Firebase Realtime Database[cite: 1]
+### 🌐 Web, Backend & Systems
+* **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+* **Backend Frameworks:** Node.js, Express.js, PHP, ASP.NET
+* **Databases:** SQL Server (MSSQL), MySQL, Firebase Realtime Database
+* **Infrastructure & Server:** Windows Server Management, IIS, Basic Linux Server Admin, REST API Deployment
 
 ---
 
-## 🚀 Featured Deployments & Projects
+## 🚀 Featured Deployments & Enterprise Projects
+
+### 🥛 Akashganga RMRD (Enterprise Dairy ERP)
+* **Stack:** React.js, Node.js, SQL Server (MSSQL), REST APIs
+* **Overview:** Comprehensive enterprise Raw Milk Reception Dock (RMRD) automation platform. Handles real-time milk intake records, hardware analyzer interfacing, multi-tenant database operations, and high-concurrency collection pipelines.
+
+### 📲 AkgSETU (Hybrid Mobile Application)
+* **Stack:** Hybrid Mobile Framework (Android & iOS), REST APIs, SQL Server
+* **Overview:** Unified cross-platform operational bridge connecting village dairy collection centers with centralized processors, featuring real-time data sync, member passbooks, and collection alerts.
+
+### 👔 Employee ERP (Internal Operations Suite)
+* **Stack:** Cross-Platform App (Android & iOS), Node.js, SQL Server
+* **Overview:** Internal organizational utility covering attendance management, leave tracking, service tickets, dynamic task assignment, and real-time field communication.
+
+### 🛠️ AkgInstaller (Field Utility Tool)
+* **Stack:** Native Android (Kotlin / Java), Hardware Serial Interfacing
+* **Overview:** Field engineer utility designed for zero-hassle on-site configuration, calibration, diagnostic testing, and direct firmware/hardware setup of dairy automation systems.
 
 ### 🌾 AGROWW App (Native Android)
-* **Stack:** Android Studio, Java, PHP API, MySQL[cite: 1]
-* **Overview:** A complete ecosystem designed for Indian farmers to apply for government subsidies, manage agro-licenses, and process direct product orders seamlessly[cite: 1]. Utilizes optimized MVVM design principles[cite: 1].
-
-### 💻 Cloud Portfolios & Web Applications
-* **Stack:** React.js, JavaScript, Custom Glassmorphic CSS Engine[cite: 1]
-* **Overview:** Advanced responsive web layouts tailored for fluid screen-size adaptability and custom interactive components[cite: 1].
+* **Stack:** Android Studio, Java, PHP API, MySQL
+* **Overview:** Full-cycle agrotech mobile application designed for farmers to apply for state subsidies, manage agro-licenses, and purchase direct agrochemical products with MVVM-backed architecture.
 
 ---
 
 ## 📊 Professional Timeline
 
 * **Software Development Engineer (SDE)** | *Shree Kamdhenu Electronics Pvt Ltd* (`Present`)
-  * Architecting multi-tenant system modules, optimizing enterprise SQL Server query execution, and structuring full-stack JavaScript architectures.
+  * Architecting dairy automation and industrial ERP systems (**Akashganga RMRD**, **AkgSETU**, **Employee ERP**).
+  * Engineering on-site utility apps (**AkgInstaller**) for seamless hardware-to-mobile connectivity.
+  * Assisting in server infrastructure management, backend API deployments, and SQL Server performance tuning.
 * **Android Developer** | *Infotronicx Pvt Ltd, Ahmedabad* (`6 Months`)
-  * Engineered performance-driven native Android systems, resolved background threading bottlenecks, and integrated custom Retrofit REST clients.
-* **Android Project Engineer** | *AGROWW Platform* (`2025`)[cite: 1]
-  * Built an end-to-end agrotech utility application with absolute relational schema processing and user credential pipelines from scratch[cite: 1].
+  * Engineered native Android modules, optimized multithreading performance, and integrated robust Retrofit REST clients.
+* **Android Project Engineer** | *AGROWW Platform* (`2025`)
+  * Developed an agrotech solution featuring secure authentication workflows, offline sync, and optimized relational data handling.
 
 ---
 
@@ -54,7 +71,7 @@ An experienced and certified **Software Development Engineer** specialized in bu
 
 ## 🔌 Establish Secure Connection
 
-* 🌐 **Portfolio Engine:** https://bejewelled-palmier-5fa6c9.netlify.app/
-* 💼 **LinkedIn Secure Route:** linkedin.com/in/Jigar](https://www.linkedin.com/in/jigar-prajapati-857606290
-* 🛠️ **Freelance Workspace:** Freelancer Profile](https://www.freelancer.com/u/jigar1304
+* 🌐 **Portfolio Engine:** [Live Portfolio](https://bejewelled-palmier-5fa6c9.netlify.app/)
+* 💼 **LinkedIn Route:** [linkedin.com/in/jigar-prajapati](https://www.linkedin.com/in/jigar-prajapati-857606290)
+* 🛠️ **Freelance Workspace:** [Freelancer Profile](https://www.freelancer.com/u/jigar1304)
 * ✉️ **Direct Payload:** hjigar1326@gmail.com
